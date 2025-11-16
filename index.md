@@ -390,7 +390,8 @@ deployment will have to wait until it expires in order to be spendable.
 
 ## Reference implementation
 
-<https://github.com/bitcoinknots/bitcoin/compare/29.x-knots>...UASF:<bitcoin:29.2.knots20251010+UASF-ReducedData>
+[https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...UASF:bitcoin:29.2.knots20251010+UASF-ReducedData](https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...UASF:bitcoin:29.2.knots20251010+UASF-ReducedData).
+
 
 ## Deployment
 
