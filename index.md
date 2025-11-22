@@ -228,12 +228,12 @@ Specifically:
 In both scenarios, funds are spendable either by other Tapleaves in the tree, or by the keypath (unless the keypath is provably invalidated using a NUMS point).
 
 Funds in either scenario could end up being frozen or lost ''only'' if ''all'' of the following conditions are met:
-
 * The UTXO is pay-to-Taproot (P2TR);
 * The UTXO is in a pre-signed transaction;
 * The UTXO being spent ''must'' be confirmed ''and'' spent during the temporary, one-year deployment of these new rules;
 * The Tapleaf the user selects to spend the UTXO contains an OP_IF/OP_NOTIF or exists at a depth greater than 7;
 * The keypath is unusable to spend the funds, AND there are no other suitable Tapleaves in the tree to spend the UTXO (in which case funds are frozen), OR there are other Tapleaves that ''can'' spend the UTXO in unexpected ways (in which case funds are lost).
+
 In other words, funds are completely unaffected if:
 
 * They do not use Taproot;
@@ -242,6 +242,7 @@ In other words, funds are completely unaffected if:
 * UTXOs in pre-signed transactions do not lock funds using Tapleaves that violate the new rules;
 * UTXOs in pre-signed transactions that lock funds using Tapleaves that violate the new rules do not need to be confirmed ''and'' spent during the deployment;
 * UTXOs in pre-signed transactions that lock funds using Tapleaves that violate the new rules and need to be confirmed ''and'' spent during the deployment can be spent either via the keypath OR by other, expected Tapleaves in the tree.
+
 This proposal does everything possible to try to avoid funds being frozen or lost, but ultimately it is impossible to prove that absolutely no one will be affected.
 It is therefore up to the Bitcoin community to activate these new rules only if they feel that rejecting data storage is worth this tradeoff.
 To prepare for activation, it is recommended that users begin migrating any affected funds now.
