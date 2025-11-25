@@ -8,7 +8,7 @@ title: "BIP-444"
       Title: Reduced Data Temporary Softfork
       Author: Dathon Ohm <dathonohm+bip@proton.me>
       Comments-Summary: No comments yet.
-      Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-?
+      Comments-URI: https://github.com/bitcoin/bips/pull/2017
       Status: Draft
       Type: Standards Track
       Created: 2025-10-24
