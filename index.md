@@ -3,17 +3,17 @@ layout: page
 title: "BIP-444"
 ---
 # Bitcoin Improvement Proposal BIP-444
-      BIP: ?
-      Layer: Consensus (soft fork)
-      Title: Reduced Data Temporary Softfork
-      Author: Dathon Ohm <dathonohm+bip@proton.me>
-      Comments-Summary: No comments yet.
-      Comments-URI: https://github.com/bitcoin/bips/pull/2017
-      Status: Draft
-      Type: Standards Track
-      Created: 2025-10-24
-      License: BSD-3-Clause
-      Post-History: https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8
+<pre>BIP: ?
+Layer: Consensus (soft fork)
+Title: Reduced Data Temporary Softfork
+Author: Dathon Ohm <dathonohm+bip@proton.me>
+Comments-Summary: No comments yet.
+Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a>
+Status: Draft
+Type: Standards Track
+Created: 2025-10-24
+License: BSD-3-Clause
+Post-History: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8</a></pre>
 
 ## Abstract
 
@@ -376,4 +376,4 @@ The expiry will be 52416 blocks (~1 year) after activation.
 
 ## Credits
 
-Original draft and advice: Luke-Jr
+Original draft and advice: [Luke-Jr](https://dashjr.org/)
