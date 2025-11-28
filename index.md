@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "BIP-444"
+title: "Bitcoin Improvement Proposal 444 (BIP-444)"
 ---
-# Bitcoin Improvement Proposal BIP-444
+# Bitcoin Improvement Proposal 444 (BIP-444)
 <pre>BIP: ?
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
