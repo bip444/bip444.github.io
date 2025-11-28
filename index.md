@@ -8,7 +8,7 @@ Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
 Author: Dathon Ohm <dathonohm+bip@proton.me>
 Comments-Summary: No comments yet.
-Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a>
+Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a> or <a href="https://github.com/orgs/bip444/discussions/">https://github.com/orgs/bip444/discussions</a>.
 Status: Draft
 Type: Standards Track
 Created: 2025-10-24
