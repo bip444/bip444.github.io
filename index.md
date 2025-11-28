@@ -5,7 +5,7 @@
 <pre>BIP: ?
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
-Author: Dathon Ohm <dathonohm+bip@proton.me>
+Author: <a href="https://nostr.com/nprofile1qqsw3p5pela795rxxff34kgfafsaawhnkqp8ehmgm2my49dgx9fjclcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc3303u0">Dathon Ohm</a> <dathonohm+bip@proton.me>
 Website: <a href="https://bip444.github.io/">https://bip444.github.io</a>
 Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a> or <a href="https://github.com/orgs/bip444/discussions/">https://github.com/orgs/bip444/discussions</a>.
 Status: Draft
