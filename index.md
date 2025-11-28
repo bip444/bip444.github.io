@@ -2,7 +2,6 @@
 
 ---
 
-<h1><a href="https://bip444.github.io/">Bitcoin Improvement Proposal 444 (BIP-444)</a></h1>
 <pre>BIP: ?
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
