@@ -362,7 +362,7 @@ All other known use cases are not affected.
 
 ## Reference implementation
 
-[https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...UASF:bitcoin:29.2.knots20251010+UASF-ReducedData](https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...UASF:bitcoin:29.2.knots20251010+UASF-ReducedData).
+[https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...dathonohm:bitcoin:uasf-modified-bip9](https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...dathonohm:bitcoin:uasf-modified-bip9).
 
 
 ## Deployment
