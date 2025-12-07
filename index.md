@@ -2,7 +2,7 @@
 
 ---
 
-<pre>BIP: ?
+<pre>BIP: 444 (alternate number 110)
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
 Author: <a href="https://nostr.com/nprofile1qqsw3p5pela795rxxff34kgfafsaawhnkqp8ehmgm2my49dgx9fjclcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc3303u0">Dathon Ohm</a> dathonohm+bip@proton.me
