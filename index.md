@@ -12,7 +12,8 @@ Status: Draft
 Type: Standards Track
 Created: 2025-10-24
 License: BSD-3-Clause
-Post-History: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8</a></pre>
+Post-History: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8</a>
+Release candidate 1: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://github.com/dathonohm/bitcoin/releases/tag/v29.2.knots20251110%2Bbip110-v0.1rc1</a></pre>
 
 ## Abstract
 
