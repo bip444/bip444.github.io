@@ -4,3 +4,6 @@ This is a copy of the BIP444: [https://github.com/bitcoin/bips/blob/903d2fd5ed75
 See also:
 - [https://rumble.com/v719ctu-the-future-of-bitcoin-implementations-.html](https://rumble.com/v719ctu-the-future-of-bitcoin-implementations-.html),
 - [https://wtfhappenedinfeb2023.com/](https://wtfhappenedinfeb2023.com/).
+
+Binaries are available for download at:
+- [https://github.com/dathonohm/bitcoin/releases/](https://github.com/dathonohm/bitcoin/releases/).
