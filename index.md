@@ -365,6 +365,9 @@ All other known use cases are not affected.
 
 [https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...dathonohm:bitcoin:uasf-modified-bip9](https://github.com/bitcoinknots/bitcoin/compare/29.x-knots...dathonohm:bitcoin:uasf-modified-bip9).
 
+Pre-built binaries are available for download at:
+
+[https://github.com/dathonohm/bitcoin/releases/](https://github.com/dathonohm/bitcoin/releases/).
 
 ## Deployment
 
