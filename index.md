@@ -6,14 +6,14 @@
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
 Author: <a href="https://nostr.com/nprofile1qqsw3p5pela795rxxff34kgfafsaawhnkqp8ehmgm2my49dgx9fjclcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc3303u0">Dathon Ohm</a> dathonohm+bip@proton.me
-Website: <a href="https://bip444.github.io/">https://bip444.github.io</a>
+Website: <a href="https://bip444.github.io/">https://bip444.github.io</a> or <a href="https://bip110.dev/">https://bip110.dev</a>.
 Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a> or <a href="https://github.com/orgs/bip444/discussions/">https://github.com/orgs/bip444/discussions</a>.
 Status: Draft
 Type: Standards Track
 Created: 2025-10-24
 License: BSD-3-Clause
 Post-History: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8</a>
-Release candidate 1: <a href="https://github.com/dathonohm/bitcoin/releases/tag/v29.2.knots20251110%2Bbip110-v0.1rc1">https://github.com/dathonohm/bitcoin/releases/tag/v29.2.knots20251110%2Bbip110-v0.1rc1</a></pre>
+Stable release: <a href="https://github.com/dathonohm/bitcoin/releases/">https://github.com/dathonohm/bitcoin/releases/</a></pre>
 
 ## Abstract
 
