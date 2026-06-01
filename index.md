@@ -13,7 +13,8 @@ Type: Standards Track
 Created: 2025-10-24
 License: BSD-3-Clause
 Post-History: <a href="https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8/">https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8</a>
-Stable release: <a href="https://github.com/dathonohm/bitcoin/releases/">https://github.com/dathonohm/bitcoin/releases/</a></pre>
+Stable releases: <a href="https://github.com/dathonohm/bitcoin/releases/">https://github.com/dathonohm/bitcoin/releases/</a> (Dathon Ohm) and
+<a href="https://github.com/bitcoinknots/bitcoin/releases/">https://github.com/bitcoinknots/bitcoin/releases/</a> (Bitcoin Knots).</pre>
 
 ## Abstract
 
