@@ -7,3 +7,5 @@ See also:
 
 Binaries are available for download at:
 - [https://github.com/dathonohm/bitcoin/releases/](https://github.com/dathonohm/bitcoin/releases/).
+
+Expected date of the BIP-444 activation: **mid-August 2026**.
