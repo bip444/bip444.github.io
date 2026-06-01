@@ -6,7 +6,7 @@
 Layer: Consensus (soft fork)
 Title: Reduced Data Temporary Softfork
 Author: <a href="https://nostr.com/nprofile1qqsw3p5pela795rxxff34kgfafsaawhnkqp8ehmgm2my49dgx9fjclcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc3303u0">Dathon Ohm</a> dathonohm+bip@proton.me
-Website: <a href="https://github.com/bitcoin/bips/blob/master/bip-0110.mediawiki">https://github.com/bitcoin/bips/blob/master/bip-0110.mediawiki</a> or <a href="https://bip444.github.io/">https://bip444.github.io</a> or <a href="https://bip110.dev/">https://bip110.dev</a>.
+Website: <a href="https://github.com/bitcoin/bips/blob/master/bip-0110.mediawiki">https://github.com/bitcoin/bips/blob/master/bip-0110.mediawiki</a> or <a href="https://bip444.github.io/">https://bip444.github.io</a> or <a href="https://bip110.org/">https://bip110.org</a>.
 Comments-URI: <a href="https://github.com/bitcoin/bips/pull/2017/">https://github.com/bitcoin/bips/pull/2017</a> or <a href="https://github.com/orgs/bip444/discussions/">https://github.com/orgs/bip444/discussions</a>.
 Status: Draft
 Type: Standards Track
